@@ -1,0 +1,7 @@
+C:\Users\carlos.can\source\repos\EjemploFACTORYMETHOD\EjemploFACTORYMETHOD\bin\Debug\EjemploFACTORYMETHOD.exe.config
+C:\Users\carlos.can\source\repos\EjemploFACTORYMETHOD\EjemploFACTORYMETHOD\bin\Debug\EjemploFACTORYMETHOD.exe
+C:\Users\carlos.can\source\repos\EjemploFACTORYMETHOD\EjemploFACTORYMETHOD\bin\Debug\EjemploFACTORYMETHOD.pdb
+C:\Users\carlos.can\source\repos\EjemploFACTORYMETHOD\EjemploFACTORYMETHOD\obj\Debug\EjemploFACTORYMETHOD.csprojAssemblyReference.cache
+C:\Users\carlos.can\source\repos\EjemploFACTORYMETHOD\EjemploFACTORYMETHOD\obj\Debug\EjemploFACTORYMETHOD.csproj.CoreCompileInputs.cache
+C:\Users\carlos.can\source\repos\EjemploFACTORYMETHOD\EjemploFACTORYMETHOD\obj\Debug\EjemploFACTORYMETHOD.exe
+C:\Users\carlos.can\source\repos\EjemploFACTORYMETHOD\EjemploFACTORYMETHOD\obj\Debug\EjemploFACTORYMETHOD.pdb
